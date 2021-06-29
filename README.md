@@ -13,7 +13,7 @@ You're sections headers will be used to reference location of destination.
 - [Description](#description)
 - [Abstract](#abstract)
 - [License](#license)
-- [Author Info](#author-info)
+
 
 ---
 
@@ -79,10 +79,5 @@ SOFTWARE.
 
 ---
 
-## Author Info
-
-
-
-[Back To The Top](#Lecture Hall Booking For Lectures)
 
 
